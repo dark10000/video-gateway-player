@@ -1,6 +1,6 @@
 {
   "name": "video-gateway-player",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "Made with create-react-library",
   "author": "dark10000",
   "license": "MIT",
@@ -49,5 +49,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
